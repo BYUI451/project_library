@@ -18,6 +18,8 @@ This dataset consists of monthly counts by title of checkout for all physical an
 
 ## Data challenge
 
+Can we mimic the process described [by altexsoft](https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/) on data engineering and data pipelines?
+
 ### Descriptive Analytics and Dashboarding
 
 1. Use Pyspark and your [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook) to complete your investigation.
