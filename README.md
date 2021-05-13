@@ -16,6 +16,12 @@ This dataset includes monthly snapshots of all of the physical items in the Seat
 
 This dataset consists of monthly counts by title of checkout for all physical and digital items from 2005 to the present. It’s, of course, a hefty dataset with more than 25 million. Checkout data comes from multiple current and historical sources. For digital items, the media vendors: Overdrive, hoopla, Freegal, and RBDigital provide usage data. For historical physical item checkouts from April 2005 to September 30, 2016, this data source is the Legrady artwork data archives. From October 1, 2016, to the present, the source is the Horizon ILS.
 
+### Checkouts by Title (Physical Items)
+
+- [Checkouts by Title (Physical Items)](https://data.seattle.gov/Community/Checkouts-By-Title-Physical-Items-/5src-czff)
+
+This dataset includes a log of all physical item checkouts from Seattle Public Library. The dataset begins with checkouts that occurring in April 2005. Renewals are not included.
+
 ## Data challenge
 
 Can we mimic the process described [by altexsoft](https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/) on data engineering and data pipelines?
