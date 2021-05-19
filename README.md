@@ -1,6 +1,8 @@
 # The Seattle Public Library Model
 
-[The Seattle Public Library](https://www.spl.org/) provides two data sets with millions of rows that we can leverage for analytics. They also offer a [Integrated Library System (ILS) Data Dictionary](https://data.seattle.gov/Community/Integrated-Library-System-ILS-Data-Dictionary/pbt3-ytbc).  We want to build a data analytics tool that leverages this data source.
+[The Seattle Public Library](https://www.spl.org/) provides a few data sets with millions of rows that we can leverage for analytics. We want to build a data analytics tool that leverages this data source.
+
+- [Integrated Library System (ILS) Data Dictionary](https://data.seattle.gov/Community/Integrated-Library-System-ILS-Data-Dictionary/pbt3-ytbc).
 
 ## Data description
 
